@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "973568971099",
+    "project_id": "chatapp-dfe25",
+    "storage_bucket": "chatapp-dfe25.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973568971099:android:52262e7b6151243a720a7e",
+        "android_client_info": {
+          "package_name": "com.connectly.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARzWRDbwVzQQ8lNtmUlCQi539KX0LH7H8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
